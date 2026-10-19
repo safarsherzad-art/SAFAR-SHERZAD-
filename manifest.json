@@ -1,0 +1,10 @@
+{
+  "name": "SAFAR SHERZAD AI WORLD",
+  "short_name": "SAFAR AI",
+  "description": "یاریدەدەری زیرەکی بە زمانی کوردی سۆرانی",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
